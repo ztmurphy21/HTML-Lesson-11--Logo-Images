@@ -1,0 +1,41 @@
+#wrapper{
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%; 
+}
+body{
+	background-color: #DEB887; 
+	color: #F8F8FF;
+	font-family: Arial, Verdana, sans-serif;
+}
+
+h1{
+	background-color: #5F9EA0;
+	color: #F8F8FF;
+	line-height: 200%;
+	font-family: Georgia, "Times New Romain", serif;
+	padding: 15px;
+	text-shadow: 3px 3px 5px #CCCCCC;
+}
+h2{
+	background-color: #90EE90;
+	border-bottom: 2px dashed #9E1818;
+	color: #F8F8FF;
+	font-family: Georgia, "Times New Romain", serif;
+	text-align: center;
+}
+p{
+	font-size: .90em;
+	text-indent: 3em;
+	padding-bottom: 5px;
+}
+ul{
+	font-weight: bold;
+}
+footer{
+	border-top: thin solid #9E1818;
+	padding-top: 10px;
+	color: ##F8F8FF;
+}
+
+
